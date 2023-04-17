@@ -1,4 +1,4 @@
 host: localhost
 user: root
-passwd: 26041204
-database: gb
+passwd: *******
+database: -----
